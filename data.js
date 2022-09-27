@@ -4,7 +4,7 @@ mongoLink:'mongodb+srv://NOWNVR:YashKaLink@cluster0.kprcwpg.mongodb.net/?retryWr
 
 bot_token:'5643216898:AAHKLfyA16_74JgGB3hmdgH0AoiGkWAPp0E',
 
-bot_name:'CELOCE2GIVEAWAY_BOT',
+bot_name:'CELOCE3GIVEAWAY_BOT',
 
 pkey : '309d32a017782e1e8b47b5e5d912e04dbb7cc318bf11be6f71befce3a995e284',
 
