@@ -2,7 +2,7 @@ module.exports = {
 
 mongoLink:'mongodb+srv://NOWNVR:YashKaLink@cluster0.kprcwpg.mongodb.net/?retryWrites=true&w=majority',//database link
 
-bot_token:'5643216898:AAHKLfyA16_74JgGB3hmdgH0AoiGkWAPp0E',
+bot_token:'5600956659:AAFzOa1cYfcgMyuJvF3VkgyuiF6KqbJ8l54',
 
 bot_name:'celoce3Giveaway_bot',
 
